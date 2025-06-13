@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    ApertureOverlayDevice \
     FrameworkResOverlayDevice \
     LineageSystemUIOverlayDevice \
     SettingsOverlayDevice \
